@@ -1,7 +1,7 @@
 {
   "description": "Removes *innen|:innen from german webpages",
   "manifest_version": 2,
-  "name": "Borderify",
+  "name": "Genderless",
   "version": "1.0",
   "homepage_url": "https://github.com/zach-all/firefox-genderless",
   "icons": {
